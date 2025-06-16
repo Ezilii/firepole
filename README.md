@@ -1,8 +1,8 @@
 # Fire Pole Slide Script
 
-[![Watch the demo](https://img.youtube.com/vi/YourVideoID/hqdefault.jpg)](https://www.youtube.com/watch?v=lGro457hOFY)
-
 A lightweight and immersive fire pole sliding script for FiveM servers using the Overextended (OX) framework. Provides animated and configurable pole sliding with optional sound effects and camera shake.
+
+[Click here to watch a very short demo video](https://www.youtube.com/watch?v=lGro457hOFY)
 
 # Features
 
